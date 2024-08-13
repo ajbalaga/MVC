@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{466A51F3-820B-43DC-A0B1-9EA22A1BA706}|SimpleWebApp.Test\\SimpleWebApp.Test.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp.test\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466A51F3-820B-43DC-A0B1-9EA22A1BA706}|SimpleWebApp.Test\\SimpleWebApp.Test.csproj|solutionrelative:simplewebapp.test\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C375D8-6EC0-439C-A463-497DFE5DC2F6}|SimpleWebApp.core\\SimpleWebApp.core.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp.core\\model\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C375D8-6EC0-439C-A463-497DFE5DC2F6}|SimpleWebApp.core\\SimpleWebApp.core.csproj|solutionrelative:simplewebapp.core\\model\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\simplewebapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\simplewebapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C375D8-6EC0-439C-A463-497DFE5DC2F6}|SimpleWebApp.core\\SimpleWebApp.core.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp.core\\interface\\isimplewebappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C375D8-6EC0-439C-A463-497DFE5DC2F6}|SimpleWebApp.core\\SimpleWebApp.core.csproj|solutionrelative:simplewebapp.core\\interface\\isimplewebappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C375D8-6EC0-439C-A463-497DFE5DC2F6}|SimpleWebApp.core\\SimpleWebApp.core.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp.core\\service\\simplewebappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C375D8-6EC0-439C-A463-497DFE5DC2F6}|SimpleWebApp.core\\SimpleWebApp.core.csproj|solutionrelative:simplewebapp.core\\service\\simplewebappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\views\\home\\updateuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\views\\home\\updateuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\views\\home\\adminview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\views\\home\\adminview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\views\\home\\clientview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\views\\home\\clientview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657C32F2-850F-4252-B587-A759B2861D4E}|SimpleWebApp.DAL\\SimpleWebApp.data.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp.dal\\simplewebapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{657C32F2-850F-4252-B587-A759B2861D4E}|SimpleWebApp.DAL\\SimpleWebApp.data.csproj|solutionrelative:simplewebapp.dal\\simplewebapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C375D8-6EC0-439C-A463-497DFE5DC2F6}|SimpleWebApp.core\\SimpleWebApp.core.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp.core\\context\\simpledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C375D8-6EC0-439C-A463-497DFE5DC2F6}|SimpleWebApp.core\\SimpleWebApp.core.csproj|solutionrelative:simplewebapp.core\\context\\simpledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657C32F2-850F-4252-B587-A759B2861D4E}|SimpleWebApp.DAL\\SimpleWebApp.data.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp.dal\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657C32F2-850F-4252-B587-A759B2861D4E}|SimpleWebApp.DAL\\SimpleWebApp.data.csproj|solutionrelative:simplewebapp.dal\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657C32F2-850F-4252-B587-A759B2861D4E}|SimpleWebApp.DAL\\SimpleWebApp.data.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp.dal\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657C32F2-850F-4252-B587-A759B2861D4E}|SimpleWebApp.DAL\\SimpleWebApp.data.csproj|solutionrelative:simplewebapp.dal\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|c:\\users\\ajbba\\desktop\\simplewebapp\\simplewebapp\\simplewebapp\\views\\home\\updateuser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAFFF8-D41C-4E92-B29E-E1DF7B0E527B}|SimpleWebApp\\SimpleWebApp.web.csproj|solutionrelative:simplewebapp\\views\\home\\updateuser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.Test\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "SimpleWebApp.Test\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.Test\\HomeControllerTests.cs",
+              "RelativeToolTip": "SimpleWebApp.Test\\HomeControllerTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:21:32.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SimpleWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SimpleWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAwLsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:06:59.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISimpleWebAppService.cs",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.core\\Interface\\ISimpleWebAppService.cs",
+              "RelativeDocumentMoniker": "SimpleWebApp.core\\Interface\\ISimpleWebAppService.cs",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.core\\Interface\\ISimpleWebAppService.cs",
+              "RelativeToolTip": "SimpleWebApp.core\\Interface\\ISimpleWebAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:29:27.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\ClientView.cshtml",
+              "RelativeDocumentMoniker": "SimpleWebApp\\Views\\Home\\ClientView.cshtml",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\ClientView.cshtml",
+              "RelativeToolTip": "SimpleWebApp\\Views\\Home\\ClientView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T01:56:58.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleWebAppService.cs",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.core\\Service\\SimpleWebAppService.cs",
+              "RelativeDocumentMoniker": "SimpleWebApp.core\\Service\\SimpleWebAppService.cs",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.core\\Service\\SimpleWebAppService.cs",
+              "RelativeToolTip": "SimpleWebApp.core\\Service\\SimpleWebAppService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAMMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:41:23.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\AdminView.cshtml",
+              "RelativeDocumentMoniker": "SimpleWebApp\\Views\\Home\\AdminView.cshtml",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\AdminView.cshtml",
+              "RelativeToolTip": "SimpleWebApp\\Views\\Home\\AdminView.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAIBJwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T01:57:10.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\appsettings.json",
+              "RelativeToolTip": "SimpleWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T06:54:12.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleWebApp.web.csproj",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.web.csproj",
+              "RelativeDocumentMoniker": "SimpleWebApp\\SimpleWebApp.web.csproj",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.web.csproj",
+              "RelativeToolTip": "SimpleWebApp\\SimpleWebApp.web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T03:31:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.core\\Model\\Result.cs",
+              "RelativeDocumentMoniker": "SimpleWebApp.core\\Model\\Result.cs",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.core\\Model\\Result.cs",
+              "RelativeToolTip": "SimpleWebApp.core\\Model\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:29:38.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "SimpleWebApp\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "SimpleWebApp\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T20:11:22.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SimpleWebApp.data.csproj",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.DAL\\SimpleWebApp.data.csproj",
+              "RelativeDocumentMoniker": "SimpleWebApp.DAL\\SimpleWebApp.data.csproj",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.DAL\\SimpleWebApp.data.csproj",
+              "RelativeToolTip": "SimpleWebApp.DAL\\SimpleWebApp.data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T05:08:57.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\UpdateUser.cshtml",
+              "RelativeDocumentMoniker": "SimpleWebApp\\Views\\Home\\UpdateUser.cshtml",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\UpdateUser.cshtml",
+              "RelativeToolTip": "SimpleWebApp\\Views\\Home\\UpdateUser.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwB0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T03:33:03.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Program.cs",
+              "RelativeToolTip": "SimpleWebApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T05:29:50.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SimpleWebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SimpleWebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T03:33:10.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.DAL\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SimpleWebApp.DAL\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.DAL\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "SimpleWebApp.DAL\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T19:48:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SimpleWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T05:47:51.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimpleWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SimpleWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T03:44:37.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SimpleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.core\\Context\\SimpleDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleWebApp.core\\Context\\SimpleDbContext.cs",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.core\\Context\\SimpleDbContext.cs",
+              "RelativeToolTip": "SimpleWebApp.core\\Context\\SimpleDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:28:02.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.DAL\\ViewModel\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "SimpleWebApp.DAL\\ViewModel\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp.DAL\\ViewModel\\DashboardViewModel.cs",
+              "RelativeToolTip": "SimpleWebApp.DAL\\ViewModel\\DashboardViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:29:18.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateUser.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\UpdateUser.cshtml.cs",
+              "RelativeDocumentMoniker": "SimpleWebApp\\Views\\Home\\UpdateUser.cshtml.cs",
+              "ToolTip": "C:\\Users\\ajbba\\Desktop\\SimpleWebApp\\SimpleWebApp\\SimpleWebApp\\Views\\Home\\UpdateUser.cshtml.cs",
+              "RelativeToolTip": "SimpleWebApp\\Views\\Home\\UpdateUser.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:16:42.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
